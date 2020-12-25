@@ -1,2 +1,2 @@
 # Notion
-Notion Countdown Widget
+Notion Widget
